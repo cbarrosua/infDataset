@@ -1,4 +1,4 @@
-ending,endingstem,stem,person,number,tense,mood,suff1,suff2,stemC1,stemC2,stemC3
+ending,endingstem,penSyl,person,number,tense,mood,suff1,suff2,stemC1,stemC2,stemC3
 ar,ANY,ANY,1,0,0,0,o,ANY,ANY,ANY,ANY
 ar,ANY,ANY,2,0,0,0,as,ANY,ANY,ANY,ANY
 ar,ANY,ANY,3,0,0,0,a,ANY,ANY,ANY,ANY
